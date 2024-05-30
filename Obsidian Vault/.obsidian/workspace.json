@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "abb30e53a70d5210",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4095814c92251a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3ea3c59416b3665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Mathematics/L-2.2- Reflexive Relation with examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acbedfe8edae4d71",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd8ad674dbcb09cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f23bf2fce0f3e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b22d635121445dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90644cf9f5afc5db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5ec3061be16142e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea3672225c098bf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "960d9af291af497c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discrete Mathematics/L-2.2- Reflexive Relation with examples.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56db878ffd1cbc57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Discrete Mathematics/L-2.2- Reflexive Relation with examples.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cc3d41a7475a648",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0867b8c577c1b824",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discrete Mathematics/L-2.2- Reflexive Relation with examples.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a3ea3c59416b3665",
+  "lastOpenFiles": [
+    "Discrete Mathematics/Implications.md",
+    "Discrete Mathematics/Introduction to Set Theory.md",
+    "Discrete Mathematics/L-1-2- Power Set - Set Theory and Algebra.md",
+    "Discrete Mathematics/L-2.1- Relation in Set Theory with examples.md",
+    "Discrete Mathematics/L-2.2- Reflexive Relation with examples.md",
+    "Source/Image/cartasianpic.png",
+    "Source/Image",
+    "Source",
+    "Discrete Mathematics/Source/Attachments",
+    "Discrete Mathematics/Source",
+    "Index.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Discrete Mathematics"
+  ]
+}
